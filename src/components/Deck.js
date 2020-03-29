@@ -7,6 +7,7 @@ import data from "../data.js";
 
 import "../styles/Deck.css";
 
+  
 const to = i => ({
   x: 0,
   y: i * -10,
@@ -66,7 +67,7 @@ function Deck() {
     }
   );
 
-  return props.map(({ x, y, rot, scale }, i) => (
+  return props.map(({ x, y, rot, scale}, i) => (
     <Card
       i={i}
       x={x}

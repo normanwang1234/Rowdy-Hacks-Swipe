@@ -1,6 +1,10 @@
 import React from "react";
-import Deck from "./components/Deck";
+import Main from './Main';
 
-const App = () => <Deck />;
+function App () {
+    return (
+        <Main/>
+    );
+}
 
 export default App;

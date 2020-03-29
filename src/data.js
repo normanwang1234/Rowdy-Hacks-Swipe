@@ -7,7 +7,18 @@ export default [
     age: 32,
     distance: "4 miles away",
     text:
-      "My nickname is Gilette because I'm the best a man can get. Also I will cut you."
+      "My nickname is Gilette because I'm the best a man can get. Also I will cut you.",
+    match: false
+    },
+  {
+    pics: [
+      "https://i.imgur.com/6Sg2irv.jpg"
+    ],
+    name: "Ananda",
+    age: 19,
+    distance: "3 miles away",
+    text: "I love Drake, Young Thug, and Travis Scott.",
+    match: true
   },
   {
     pics: [
@@ -16,7 +27,8 @@ export default [
     name: "Chloe",
     age: 18,
     distance: "1 mile away",
-    text: "The C and the L are silent."
+    text: "Looking for a cuddle buddy.",
+    match: false
   },
   {
     pics: [
@@ -25,16 +37,8 @@ export default [
     name: "Helen",
     age: 19,
     distance: "3 miles away",
-    text: "Aspiring MILF"
-  },
-  {
-    pics: [
-      "https://images.unsplash.com/photo-1514924801778-1db0aba75e9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
-    ],
-    name: "Savannah",
-    age: 29,
-    distance: "3 miles away",
-    text: "A little known fact is that I cover about 40% of Africa."
+    text: "Aspiring Dancer and actor. I go to UCLA and love doggos. 10+ Points for the best dog pic.",
+    match: false
   },
   {
     pics: [
@@ -44,7 +48,7 @@ export default [
     name: "Jane",
     age: 22,
     distance: "2 miles away",
-    text:
-      "On the first date I will carve our initials in a tree. It's the most romantic way to let you know I have a knife."
+    text: "Jamaican me crazy. I enjoy long walks to the fridge and cheesecake.",
+    match:false
   }
 ];
