@@ -1,13 +1,13 @@
 {
   "main.css": "/swipe/static/css/main.20f19393.chunk.css",
-  "main.js": "/swipe/static/js/main.d2f08a2f.chunk.js",
-  "main.js.map": "/swipe/static/js/main.d2f08a2f.chunk.js.map",
+  "main.js": "/swipe/static/js/main.4bcbf812.chunk.js",
+  "main.js.map": "/swipe/static/js/main.4bcbf812.chunk.js.map",
   "runtime~main.js": "/swipe/static/js/runtime~main.1e69976d.js",
   "runtime~main.js.map": "/swipe/static/js/runtime~main.1e69976d.js.map",
   "static/js/2.105c4ae5.chunk.js": "/swipe/static/js/2.105c4ae5.chunk.js",
   "static/js/2.105c4ae5.chunk.js.map": "/swipe/static/js/2.105c4ae5.chunk.js.map",
   "index.html": "/swipe/index.html",
-  "precache-manifest.68e1910174617aa9e3aab7ec9d0c7a58.js": "/swipe/precache-manifest.68e1910174617aa9e3aab7ec9d0c7a58.js",
+  "precache-manifest.a7bc8ec259d8d91e2a6b47c659705572.js": "/swipe/precache-manifest.a7bc8ec259d8d91e2a6b47c659705572.js",
   "service-worker.js": "/swipe/service-worker.js",
   "static/css/main.20f19393.chunk.css.map": "/swipe/static/css/main.20f19393.chunk.css.map"
 }
