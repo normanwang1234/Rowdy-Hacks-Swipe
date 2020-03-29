@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/swipe/static/js/2.105c4ae5.chunk.js"
   },
   {
-    "revision": "2c0bcc5774e50ae1035aefd6cc87cfbc",
+    "revision": "453a06a679570db0e122cae4f80330ac",
     "url": "/swipe/index.html"
   }
 ];
