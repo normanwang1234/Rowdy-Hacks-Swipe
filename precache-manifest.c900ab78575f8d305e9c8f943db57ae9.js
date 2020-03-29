@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8e853fc8367843dba58f",
+    "revision": "6e02ae050d33f9d6bbe0",
     "url": "/Swipe/static/css/main.20f19393.chunk.css"
   },
   {
-    "revision": "8e853fc8367843dba58f",
-    "url": "/Swipe/static/js/main.07203e3e.chunk.js"
+    "revision": "6e02ae050d33f9d6bbe0",
+    "url": "/Swipe/static/js/main.60d2bc2a.chunk.js"
   },
   {
     "revision": "77c50da55a8117c5fc51",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Swipe/static/js/2.34d403db.chunk.js"
   },
   {
-    "revision": "53987e23d6c8916490ea4a1bfcee40ef",
+    "revision": "b75ac54537b22926b0769ecbd00ed8ea",
     "url": "/Swipe/index.html"
   }
 ];
